@@ -22,5 +22,5 @@ I am a first year Ph.D. student at Carnegie Mellon University in Electrical and 
 My research interests lie at the intersection of wireless sensing and human health. With recent advancements in antenna and microphone technology, especially in their sensitivity, I am excited about the potential of these devices to monitor bodily functions and diagnose diseases. I am also interested in smart home applications and the capabilities of machine learning within the wireless sensing community.
 
 ### Related Ongoing Projects
-- Contactless imaging of blood flow over the human body
+- Contactless human blood flow sensing
 - Smart surfaces manipulation on wireless signals
