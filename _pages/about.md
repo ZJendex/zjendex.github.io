@@ -33,6 +33,6 @@ My research interests lie at the intersection of wireless sensing and human heal
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="..\assets\img\brush_s.jpg" width="150px" style="margin-right: 20px;">
+  <img src="..\assets\img\brush.jpg" width="150px" style="margin-right: 20px;">
   <p><b>Brush is all you need. Low cost vibrometry solution for classification & detection</b></p>
 </div>
