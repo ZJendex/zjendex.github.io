@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. student at Carnegie Mellon University in Electrical and Computer Engineering Department, advised by <a href="https://www.cs.cmu.edu/~justinc3/">Prof. Justin Chan</a> and <a href="https://swarunkumar.com/">Prof. Swarun Kumar</a>. 
 
-My research interests lie at the intersection of wireless sensing and human health. With recent advancements in antenna and microphone technology, I am excited about the potential of these devices to monitor bodily functions and diagnose diseases. 
+My research interests lie at the intersection of wireless sensing and human health. I am excited about the potential of these sensing devices to monitor bodily functions and diagnose diseases. 
 
 ### Topics Ongoing
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
