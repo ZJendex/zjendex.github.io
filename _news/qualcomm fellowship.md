@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-23 09:00:00-0400
+date: 2025-05-27 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Selected as a Qualcomm Innovation Fellowship finalist.
+Win [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america).
