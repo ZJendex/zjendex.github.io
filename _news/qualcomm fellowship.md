@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Win [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america)(6% acceptance rate).
+With [Kuang Yuan](https://www.andrew.cmu.edu/user/kuangy/), win [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america)(6% acceptance rate). [[CMU News](https://www.ece.cmu.edu/news-and-events/story/2025/06/using-at-home-ai-to-monitor-cardiovascular-health.html)]

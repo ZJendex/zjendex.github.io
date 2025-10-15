@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Win [CMLH Fellowship](https://www.cs.cmu.edu/cmlh/) at CMU. (12% acceptance rate)
+Win [CMLH Fellowship](https://www.cs.cmu.edu/cmlh/) at CMU. (12% acceptance rate) [[Website](https://www.cs.cmu.edu/cmlh/2025-digital-health-fellows-sensing-public-health)]

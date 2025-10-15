@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Guest lecture @ CMU on Advanced Wireless Technology
-18741/18441：Computer Network 
+Guest lecture @ CMU on Advanced Topics on Wireless Technology
+18441/18741：Computer Network 
