@@ -41,6 +41,8 @@ layout: default
             {{ content }}
           </div>
 
+          <div style="clear: both;"></div>
+
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
@@ -54,9 +56,16 @@ layout: default
           {%- endif %}
 
           <!-- Selected papers -->
+
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
             {%- include selected_papers.html %}
+          {%- endif %}
+
+          <!-- Services -->
+          {%- if page.services %}
+            <h2>services</h2>
+            <p>{{ page.services }}</p>
           {%- endif %}
 
           <!-- Social -->

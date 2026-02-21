@@ -11,7 +11,7 @@ toc:
 ---
 <div class="row">
     <div class="col-sm-12">
-        <object data="../assets/pdf/cv_YiwenSong_20250323.pdf" width="800" height="1200" type="application/pdf">
+        <object data="../assets/pdf/CV.pdf" width="800" height="1200" type="application/pdf">
             <p>It appears your browser doesn't support embedded PDFs. 
             You can <a href="../assets/pdf/CV.pdf">download the PDF here</a>.</p>
         </object>

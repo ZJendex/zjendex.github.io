@@ -4,3 +4,11 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"SenSys":
+  url: https://sensys.acm.org/
+  color: "#0050a0"
+
+"CHI":
+  url: https://chi2026.acm.org/
+  color: "#c41230"

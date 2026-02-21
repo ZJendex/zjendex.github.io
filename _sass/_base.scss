@@ -37,6 +37,7 @@ table {
 a,
 table.table a {
   color: var(--global-theme-color);
+  font-weight: bold;
 
   &:hover {
     color: var(--global-theme-color);
@@ -178,6 +179,7 @@ blockquote {
 
 .profile.float-right {
   margin-left: 1rem;
+  margin-top: -1.5rem;
 }
 
 .profile.float-left {
@@ -186,7 +188,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 28%;
 
     .address {
       p {
